@@ -148,7 +148,7 @@
   }
 
   .yellow-btn {
-    @apply h-12 cursor-pointer bg-gradient-to-b from-yellow-400 to-yellow-500 hover:from-yellow-500 hover:to-yellow-400 text-gray-950 font-medium text-base rounded-lg shadow-lg disabled:opacity-50;
+    @apply h-12 cursor-pointer bg-gradient-to-b from-blue-400 to-blue-500 hover:from-blue-500 hover:to-blue-400 text-gray-950 font-medium text-base rounded-lg shadow-lg disabled:opacity-50;
   }
 
   .home-wrapper {
@@ -296,7 +296,7 @@
   }
 
   .watchlist-remove {
-    @apply bg-red-500  hover:bg-red-500  text-gray-900 
+    @apply bg-red-500 hover:bg-red-500 text-gray-900
   }
 
   .watchlist-empty-container {
@@ -332,7 +332,7 @@
   }
 
   .watchlist-icon-btn {
-    @apply w-fit cursor-pointer hover:bg-transparent  text-gray-400 hover:text-yellow-500;
+    @apply w-fit cursor-pointer hover:bg-transparent text-gray-400 hover:text-yellow-500;
   }
 
   .watchlist-icon-added {
